@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Halloween party Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <div id="logoName"><div id="img"><img src="skull.jpeg"></div><div id="title">Halloween party</div></div>
+    <div id="menu">
+        <ul>
+            <li id="Rp"><a href="#formbox">Do you wanna join us?</a></li>
+        <!--<li><a href="#">Inicio</a></li>
+            <li><a href="#">Sobre nós</a></li>
+            <li id="Rp"><a href="#formbox">Contato</a></li>
+        -->
+        </ul>
+    </div>
+</header>
+<main>
+    <div id="sticker">
+        <div id="imgI"><img src="HalloweenLongLive.jpeg"></div>
+        <div><span id="titleF"></span></div>
+    </div>
+    <div id="rightside">
+        <div id="formbox">
+            <h3>Start here!</h3>
+            <form>
+                <label for="name" id="nameLabel">Name:</label>
+                <input type="text" name="name" id="name" required><br>
+                <label for="address" id="addressLabel">Address:</label>
+                <input type="text" name="address" id="address" required><br>
+                <label for="cep" id="cepLabel">Zip code:</label>
+                <input type="number" name="cep" id="cep" required><br>
+                <label for="tel" id="telLabel">Phone:</label>
+                <input type="number" name="tel" id="tel" required><br>
+                <label for="email" id="emailLabel">E-mail:</label>
+                <input type="email" name="email" id="email" required><br>
+            </form>
+            <button id="send">Submit</button>
+        </div>
+    </div>
+</main>
+<script src="script.js"></script>
+</body>
+</html>
