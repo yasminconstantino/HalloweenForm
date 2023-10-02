@@ -115,7 +115,7 @@ main{
 #sticker img{
     width: 40%;
     align-self: center;
-    animation: /*float*/ rotate 4s infinite;
+    animation: /*float*/ rotate 5s infinite;
     padding: 50px 0 50px 0;
 }
 
@@ -127,8 +127,8 @@ main{
         transform: rotate(360deg);
       }
 }
-
-/*@keyframes float {
+/*
+@keyframes float {
     0%{
         padding: 0 0 50px 0;
     }
