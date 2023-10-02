@@ -115,7 +115,7 @@ main{
 #sticker img{
     width: 40%;
     align-self: center;
-    animation: /*float*/ rotate 5s infinite;
+    animation: rotate 5s infinite;
     padding: 50px 0 50px 0;
 }
 
@@ -127,18 +127,6 @@ main{
         transform: rotate(360deg);
       }
 }
-/*
-@keyframes float {
-    0%{
-        padding: 0 0 50px 0;
-    }
-    50%{
-        padding: 50px 0 0 0;
-    }
-    100%{
-        padding: 0 0 50px 0;
-    }
-}*/
 
 #formbox{
     background-color: rgba(255, 255, 255, 0.02);
