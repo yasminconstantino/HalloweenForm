@@ -4,9 +4,8 @@
   You can check the page https://yasminconstantino.github.io/HalloweenForm/
 
   <h4> Languages and Technologies:</h4>
-  <img src="html (1).png" width="48"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img src="css (1).png" width="48"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img src="javascript.png" width="48"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <div>
+    <img src="html (1).png" width="48"/>
+    <img src="css (1).png" width="48"/>
+    <img src="javascript.png" width="48"/>
+  </div>
