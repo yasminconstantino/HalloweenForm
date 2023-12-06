@@ -1,4 +1,4 @@
-  <h1 color="#6D0404">HalloweenForm</h1>  <img src="ghost (4).png" width="36"/>
+  <h1>HalloweenForm</h1>  <img src="ghost (4).png" width="36"/>
   A simple form to join my hypothetical halloween party
 
   <p>You can check the page <a href="https://yasminconstantino.github.io/HalloweenForm/">here</a></p>
