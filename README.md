@@ -13,7 +13,6 @@
   </div>
 
 <section>
-        <h2>Um Summary HTML5</h2>
         <details>
             <summary>Clique aqui para ler em português</summary>
             <p>Este é um formulário simples para se cadastrar na minha festa de Halloween ficticia.</p>
