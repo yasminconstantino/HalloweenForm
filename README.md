@@ -11,7 +11,9 @@
     <img src="css (1).png" width="48"/>
     <img src="javascript.png" width="48"/>
   </div>
-
+<br>
+<hr>
+<br>
 <section>
   <details>
     <summary>Clique aqui para ler em português</summary>
