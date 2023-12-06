@@ -1,7 +1,7 @@
   <h1>HalloweenForm </h1>  <img src="ghost (4).png" width="36"/>
   A simple form to join my hypothetical halloween party
 
-  You can check the page https://yasminconstantino.github.io/HalloweenForm/
+  <p>You can check the page <a href="https://yasminconstantino.github.io/HalloweenForm/">here</a></p>
 
   <h4> Languages and Technologies:</h4>
   <div>
