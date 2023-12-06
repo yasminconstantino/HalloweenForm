@@ -13,15 +13,16 @@
   </div>
 
 <section>
-        <details>
-            <summary>Clique aqui para ler em português</summary>
-            <p>Este é um formulário simples para se cadastrar na minha festa de Halloween ficticia.</p>
-            <p>Você pode acessar a página e ver ela funcionando <a href="https://yasminconstantino.github.io/HalloweenForm/">aqui</a></p>
-            <h4>Linguagens e tecnologias utilizadas:</h4>
-            <div>
-                <img src="html (1).png" width="38"/>
-                <img src="css (1).png" width="38"/>
-                <img src="javascript.png" width="38"/>
-            </div>
-        </details>
-    </section>
+  <details>
+    <summary>Clique aqui para ler em português</summary>
+    <p>Este é um formulário simples para se cadastrar na minha festa de Halloween ficticia.</p>
+    <p>Você pode acessar a página e ver ela funcionando <a href="https://yasminconstantino.github.io/HalloweenForm/">aqui</a></p>
+    <h4>Linguagens e tecnologias utilizadas:</h4>
+    <div>
+        <img src="html (1).png" width="38"/>
+        <img src="css (1).png" width="38"/>
+        <img src="javascript.png" width="38"/>
+    </div>
+  </details>
+</section>
+
