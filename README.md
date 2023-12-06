@@ -12,9 +12,7 @@
     <img src="javascript.png" width="48"/>
   </div>
 <br>
-<br>
-<h5>.....</h5>
-<br>
+<h5>...</h5>
 <br>
 <section>
   <details>
