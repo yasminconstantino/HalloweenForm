@@ -1,5 +1,5 @@
   <h1>HalloweenForm</h1>  <img src="ghost (4).png" width="36"/>
-  <p>A simple form to join my hypothetical halloween party</p>
+  <p>A simple form to join my fictional halloween party</p>
 
   <img src="HalloweenForm.jpeg" width="500"/>
   
